@@ -6,6 +6,10 @@ This is my third commit
 
 This is another third commit
 
+
 Add new commit to github 
 
 dang tam thoi sua chua biet lam gi nua
+
++ Server add new commit, what should you want to do?
+
